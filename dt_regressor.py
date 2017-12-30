@@ -58,7 +58,7 @@ if __name__ == "__main__":
     features, targets = get_features_targets(data)
 
     # initialize model
-    dtr = DecisionTreeRegressor()
+    dtr = DecisionTreeRegressor(max_depth=19)
 
     # call cross validation function
     predictions = cross_validate_predictions(dtr, features, targets, 10)
