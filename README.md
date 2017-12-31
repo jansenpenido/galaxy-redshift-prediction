@@ -13,6 +13,10 @@ To do so, it takes photometric readings of galaxies and calculates their corresp
 
 Using the resulting colors, the redshift predictions are made using scikit-learn's `DecisionTreeRegressor` class.
 
+![vega](http://www.astroml.org/_images/plot_sdss_filters_1.png)
+
+*The five SDSS filter bands along with a spectrum of the star Vega. Source: [AstroML](http://www.astroml.org/examples/datasets/plot_sdss_filters.html)*
+
 
 ## Dependencies
 * [Numpy](http://www.numpy.org/)
