@@ -1,6 +1,4 @@
 # Galaxy Redshift Estimator
-This application was developed as an exercise for Coursera's [Data-driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy) course.
-
 
 ## Overview
 To calculate the redshift of a distant galaxy, the most accurate method is to observe the optical emission lines and measure the shift in wavelength. However, this process can be time consuming and is thus infeasible for large samples.
@@ -24,5 +22,5 @@ Using the resulting colors, the redshift predictions are made using scikit-learn
 * [Matplotlib](https://matplotlib.org/)
 
 
-## Author
-[Jansen Penido](https://about.me/jansen.penido)
+## Acknowledgments
+This application was developed as an exercise for Coursera's [Data-driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy) course.
