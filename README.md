@@ -23,4 +23,4 @@ Using the resulting colors, the redshift predictions are made using scikit-learn
 
 
 ## Acknowledgments
-This application was developed as an exercise for Coursera's [Data-driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy) course.
+* This application was developed as an exercise for Coursera's [Data-driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy) course.
